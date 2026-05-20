@@ -8,7 +8,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
-@Entity(name="tbUser")
+@Entity(name="tb_User")
 public class User implements Serializable {
 	private static final long serialVersionUID = 1L;
 
